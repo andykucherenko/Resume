@@ -28,6 +28,3 @@ E-mail:
 [andykucherenko@gmail.com](mailto:andykucherenko@gmail.com)
 
 # ![Логотип QA Engineer](https://www.scmgalaxy.com/tutorials/wp-content/uploads/2021/09/hire-qa-engineer-1536x445.png)
-
-gem "github-pages", group: :jekyll_plugins
-
