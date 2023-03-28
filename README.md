@@ -1,7 +1,7 @@
-![фото](%D0%A4%D0%BE%D1%82%D0%BE.png)
+![фото](https://github.com/andykucherenko/Resume/blob/main/Photo.png)
 
 
-
+Cancel changes
 ## **Кучеренко Андрей Геннадиевич** 
 
 ### QA Engineer
