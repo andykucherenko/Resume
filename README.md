@@ -1,4 +1,4 @@
-![alt text](https://github.com/andykucherenko/Resume/blob/main/Photo.png)
+![alt text](https://raw.githubusercontent.com/andykucherenko/Resume/main/Photo.png)
 
 
 Cancel changes
