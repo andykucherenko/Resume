@@ -1,4 +1,4 @@
-![Photo](https://github.com/andykucherenko/Resume/blob/main/Photo.png)
+![photo](https://github.com/andykucherenko/Resume/blob/main/Photo.png)
 
 
 Cancel changes
