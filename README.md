@@ -1,4 +1,5 @@
-![alt text](https://raw.github.com/andykucherenko/Resume/main/Photo.png?raw=true)
+![Photo](https://user-images.githubusercontent.com/122628604/230794329-0575999e-8536-4e0c-9d02-21bf8a068c1b.png)
+
 
 
 Cancel changes
